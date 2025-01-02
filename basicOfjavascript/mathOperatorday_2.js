@@ -49,11 +49,12 @@
 // Write Your Code Below
 
 
-let input1=5
-let input2="5"
-console.log(input1==input2)
-console.log(input1===input2)
-console.log(input1!=input2)
-console.log(input1!==input2)
+// let input1=5
+// let input2="5"
+// console.log(input1==input2)
+// console.log(input1===input2)
+// console.log(input1!=input2)
+// console.log(input1!==input2)
+
 
 
