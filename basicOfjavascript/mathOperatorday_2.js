@@ -1,3 +1,7 @@
+//date : 01/02/2025 masai day 2
+
+//Topic : Mathematical Operator
+
 // **Description**
 
 // You are given two inputs stored in variables `input1` and `input2`.
